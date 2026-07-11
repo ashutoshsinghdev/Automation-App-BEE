@@ -1,0 +1,94 @@
+{
+    "chats": [
+        {
+            "title": "what are u doing",
+            "messages": [
+                {
+                    "sender": "user",
+                    "text": "what are u doing",
+                    "time": "22:09"
+                },
+                {
+                    "sender": "ai",
+                    "text": "Hello Ashutosh!",
+                    "time": "22:09"
+                },
+                {
+                    "sender": "user",
+                    "text": "kya hua re",
+                    "time": "22:09"
+                },
+                {
+                    "sender": "ai",
+                    "text": "Hello Ashutosh!",
+                    "time": "22:09"
+                }
+            ]
+        },
+        {
+            "title": "hey man",
+            "messages": [
+                {
+                    "sender": "user",
+                    "text": "hey man",
+                    "time": "22:09"
+                },
+                {
+                    "sender": "ai",
+                    "text": "Hello Ashutosh!",
+                    "time": "22:09"
+                }
+            ]
+        },
+        {
+            "title": "MY NAME IS ASHUTOSH",
+            "messages": [
+                {
+                    "sender": "user",
+                    "text": "MY NAME IS ASHUTOSH",
+                    "time": "21:26"
+                },
+                {
+                    "sender": "ai",
+                    "text": "Hello Ashutosh!",
+                    "time": "21:26"
+                },
+                {
+                    "sender": "user",
+                    "text": "hey",
+                    "time": "21:43"
+                },
+                {
+                    "sender": "ai",
+                    "text": "Hello Ashutosh!",
+                    "time": "21:43"
+                }
+            ]
+        },
+        {
+            "title": "MY NAME IS ASHUTOSH",
+            "messages": [
+                {
+                    "sender": "user",
+                    "text": "MY NAME IS ASHUTOSH",
+                    "time": "21:26"
+                },
+                {
+                    "sender": "ai",
+                    "text": "Hello Ashutosh!",
+                    "time": "21:26"
+                },
+                {
+                    "sender": "user",
+                    "text": "hey",
+                    "time": "21:43"
+                },
+                {
+                    "sender": "ai",
+                    "text": "Hello Ashutosh!",
+                    "time": "21:43"
+                }
+            ]
+        }
+    ]
+}
